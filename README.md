@@ -1,4 +1,4 @@
-<h1 align="center">Hello Geeks, I'm Rubi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello Geeks, I'm Rubi kri<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 </p>
 <hr/>
